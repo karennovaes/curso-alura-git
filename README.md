@@ -1,6 +1,6 @@
 <h1>Curso de git</h1>
 
-Este repositório foi criado para ser usado como estudos de git, de acordo com o curso "Git e GitHub: repositório, commit e versões" da Alura. 
+Este repositório foi criado para ser usado nos estudos de git, de acordo com o curso "Git e GitHub: repositório, commit e versões" da Alura. 
 
 <h2>Módulos: </h2>
 
