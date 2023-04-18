@@ -43,3 +43,5 @@ node app.js
         git restore --source ba837b8 app.js
     ```
 
+* git checkout -b 'nome da branch': Criar uma branch
+* git checkout -b 'nome da branch': Trocar de branch
