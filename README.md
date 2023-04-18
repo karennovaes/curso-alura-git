@@ -19,11 +19,27 @@ node app.js
 <h1>Comandos</h1>
 
 * git clone: clonar um repositório
+
 * git log: verificar o histórico de commits
     * git log --online: verificar o histórico resumido de commits
+    * git log -p: Ver mais informações no histórico
+    * git log --author="user_name": histórico de algum autor específico
+    * git log --since=1.month.ago --until=1.day.ago: histórico por data
+
 * git pull: Atualização do respositório sem ter que clonar novamente
+
 * git status: Verificar tudo o que está modificado no respositório
+
 * git add . : Adicionar todos arquivos modificados no commit
+
 * git commit -m "Descrição do commit": Realizar o commit
+
 * git push: Mandar todas os commits para o repositório
     * git push origin main: fazer o push para a branch main
+
+* git restore --source 'hash do commit' 'arquivo': Voltar o código para algum commit específico
+    * Exemplo:
+    ```
+        git restore --source ba837b8 app.js
+    ```
+
