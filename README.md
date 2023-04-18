@@ -8,3 +8,11 @@ Este repositório foi criado para ser usado como estudos de git, de acordo com o
 * Commit, VSCode e equipe
 * Adicionando arquivos
 * Ramificações e merge
+
+<h2>Executar o projeto </h2>
+
+Para executar o projeto, deve ter o node instalado e rodar o comando: 
+
+```
+node app.js
+```
