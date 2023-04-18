@@ -44,4 +44,7 @@ node app.js
     ```
 
 * git checkout -b 'nome da branch': Criar uma branch
+
 * git checkout -b 'nome da branch': Trocar de branch
+
+* git merge 'nome da branch criada': Manda todas as modificações na branch criada, para a main
